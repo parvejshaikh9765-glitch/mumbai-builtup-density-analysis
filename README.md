@@ -31,6 +31,17 @@ Built-up Density = Built-up Area / Ward Area
 6. Visualized results in QGIS using graduated symbology
 
 ## Outputs
+# Key Findings
+- Very high built-up density is concentrated in southern Mumbai wards,
+  reflecting historically compact and older urban development.
+- Central Mumbai wards exhibit high to moderate built-up density,
+  indicating a mix of redevelopment and planned growth.
+- Northern and eastern suburban wards show comparatively lower built-up density,
+  corresponding to newer development and larger parcel sizes.
+- A clear south-to-north gradient in built-up density is observed across Mumbai.
+- Built-up density patterns align with known urban expansion trends
+  and infrastructure concentration.
+
 - Ward-level built-up density map
 - Classified density categories:
 - Very Low
